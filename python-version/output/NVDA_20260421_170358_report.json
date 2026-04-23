@@ -1,0 +1,507 @@
+{
+  "report": {
+    "title": "英伟达（NVDA）投资研究报告：AI浪潮下的领导者，机遇与风险并存",
+    "ticker": "NVDA",
+    "executive_summary": "本报告对英伟达（NVDA）进行了深入分析。公司作为全球领先的数据中心AI基础设施提供商，在技术创新和市场领导地位方面表现卓越，强劲的财务指标（如101.48%的ROE和约55.6%的净利润率）印证了其盈利能力和增长潜力。当前市场趋势向上，整体舆情积极，关键在于AI基础设施的巨大需求。然而，41.15倍的市盈率和31.22倍的市净率表明估值偏高，7.255的负债权益比也增加了财务杠杆风险。技术指标显示短期动能强劲，但需警惕高位回调。综合来看，我们维持“买入”评级，目标价为220.0美元。建议投资者逢低买入，并密切关注公司盈利报告、AI行业发展及地缘政治风险。",
+    "company_overview": "英伟达公司（NVIDIA Corporation）是全球领先的图形处理器（GPU）和人工智能（AI）计算芯片设计公司，其业务主要聚焦于数据中心规模的AI基础设施。公司通过计算与网络（Compute & Networking）以及图形（Graphics）两大业务板块运营。在AI时代，英伟达凭借其强大的GPU技术和CUDA软件平台，已成为AI训练和推理的核心驱动力，在数据中心AI基础设施领域占据绝对的领导地位。其竞争优势在于深厚的技术积累、完善的生态系统以及先发优势，能够有效满足日益增长的AI算力需求，构筑了较高的行业壁垒。",
+    "financial_analysis": "英伟达的财务表现极为亮眼。截至目前，公司市值高达4.91万亿美元，营收达到2159.4亿美元，净利润更是高达1200.7亿美元，显示出惊人的盈利能力，净利润率约55.6%。高达101.48%的股本回报率（ROE）表明公司能高效地利用股东资本创造利润。然而，41.15倍的市盈率（P/E）和31.22倍的市净率（P/B）表明市场对其增长前景给予了极高的估值，这可能带来一定的估值风险。此外，7.255的负债权益比也提示了较高的财务杠杆，虽然在科技行业中高增长公司常利用杠杆加速扩张，但需关注其潜在的财务成本和偿债压力。",
+    "technical_analysis": "英伟达近期股价呈现强劲的上涨趋势，过去五天的收盘价稳步攀升，显示出积极的市场动能。技术指标方面，MA20（20日移动平均线）为182.91，呈现看涨信号。MACD（移动平均收敛散度）和RSI（相对强弱指数）的综合分析也指向看涨。然而，RSI14指标高达98.63，已处于超买区域，提示短期内可能面临回调压力。成交量分析显示波动性为中性。整体而言，技术面显示出强劲的上升势头，但超买信号需要投资者保持警惕，密切关注价格回调的可能性，并寻找合适的介入时机。",
+    "sentiment_overview": "整体市场舆情对英伟达持正面态度，得分为0.6。尽管存在关于短期股价回调和华尔街反应的负面报道，但主流观点普遍强调了英伟达在人工智能基础设施领域的领导地位、强劲的盈利能力和巨大的增长潜力。分析师普遍看好其长期前景，认为其技术优势和市场份额将持续推动公司发展。社交媒体和新闻动态热度较高，关键主题集中在AI基础设施、市场领导地位、盈利能力、股票表现以及未来的增长预测和技术进步。投资者情绪整体乐观，但对高估值也存在一定担忧。",
+    "risk_assessment": "英伟达面临多重风险。首先是**高估值风险**（中等），过高的市盈率和市净率一旦增长不及预期或市场情绪转变，可能导致估值大幅回调。其次是**高负债权益比**（中等），7.255的负债权益比意味着较高的财务杠杆，在利率上升或经济下行时，可能增加财务成本和偿债压力。此外，**行业竞争加剧**（中等）是长期挑战，AI芯片领域竞争激烈，新进入者和现有对手的创新可能威胁其市场份额和利润率。最后，**地缘政治和出口管制风险**（高）是英伟达面临的重大不确定性，作为全球性企业，其业务易受国际贸易政策和地缘政治紧张局势的影响。建议投资者密切关注这些风险因素的发展。",
+    "investment_recommendation": "综合以上分析，我们维持对英伟达（NVDA）的“买入”评级。公司凭借其在AI基础设施领域的领导地位、持续的技术创新和强劲的盈利能力，展现出巨大的增长潜力。尽管当前估值偏高且存在一定的财务杠杆和地缘政治风险，但其市场地位和AI驱动的增长前景仍然具有吸引力。我们设定的目标价为220.0美元。投资策略上，建议投资者采取逢低买入的策略，在股价出现回调时逐步建仓，并密切关注公司未来的盈利报告、AI行业的发展动态以及宏观经济和地缘政治的变化，以规避潜在风险。",
+    "recommendation": "buy",
+    "price_target": 220.0,
+    "additional_sections": [],
+    "generated_at": "2026-04-21T17:03:52.511851"
+  },
+  "compliance": {
+    "is_compliant": false,
+    "issues": [
+      {
+        "severity": "critical",
+        "category": "disclaimer",
+        "description": "The report lacks a mandatory investment risk disclaimer, which is crucial for informing investors about the inherent risks associated with any investment.",
+        "location": "Report Title and Executive Summary",
+        "suggestion": "Add a clear and comprehensive investment risk disclaimer at the beginning or end of the report. This disclaimer should state that investments carry risks, past performance is not indicative of future results, and investors should consult with a financial advisor before making any investment decisions."
+      },
+      {
+        "severity": "critical",
+        "category": "disclaimer",
+        "description": "报告缺少免责声明",
+        "location": "报告末尾",
+        "suggestion": "添加标准免责声明模板"
+      }
+    ],
+    "disclaimer_present": false,
+    "data_citations_valid": true,
+    "regulatory_compliant": true,
+    "bias_check_passed": true,
+    "compliance_score": 35.0,
+    "reviewed_at": "2026-04-21T17:03:54.795689"
+  },
+  "collected_data": {
+    "ticker": "NVDA",
+    "company_info": {
+      "name": "NVIDIA Corporation",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "description": "NVIDIA Corporation operates as a data center scale AI infrastructure company. The company operates through two segments, Compute & Networking, and Graphics segments. The Compute & Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software. The Graphics segment offers GeForce GPUs for gaming and PCs; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics. The company's products are used in gaming, professional visualization, data center, and automotive markets. The company sells its products to original equipment manufacturers, original device manufacturers, system integrators and distributors, independent software vendors, cloud service providers, add-in board manufacturers, distributors, automotive manufacturers and tier-1 automotive suppliers, and other ecosystem participants worldwide. It has a collaboration with Tech Mahindra Limited to develop artificial intelligence powered telco network operations reasoning agent. The company has a strategic partnership with Lumentum Holdings Inc. to develop optics technologies for AI and data centers. It also has a strategic partnership with Nebius Group N.V. to develop and deploy hyperscale cloud for the artificial intelligence market. NVIDIA Corporation was incorporated in 1993 and is headquartered in Santa Clara, California.",
+      "website": "https://www.nvidia.com",
+      "employees": 42000
+    },
+    "financial_metrics": {
+      "market_cap": 4911068086272.0,
+      "pe_ratio": 41.152752,
+      "pb_ratio": 31.220642,
+      "dividend_yield": 2.0,
+      "revenue": 215938007040.0,
+      "net_income": 120066998272.0,
+      "debt_to_equity": 7.255,
+      "roe": 101.48,
+      "current_ratio": 3.905,
+      "free_cash_flow": 58128998400.0
+    },
+    "recent_prices": [
+      {
+        "date": "2026-03-09",
+        "open": 176.82,
+        "high": 182.9,
+        "low": 175.55,
+        "close": 182.64,
+        "volume": 177213600
+      },
+      {
+        "date": "2026-03-10",
+        "open": 182.39,
+        "high": 186.43,
+        "low": 182.0,
+        "close": 184.76,
+        "volume": 179118500
+      },
+      {
+        "date": "2026-03-11",
+        "open": 185.91,
+        "high": 187.62,
+        "low": 184.45,
+        "close": 186.03,
+        "volume": 145280400
+      },
+      {
+        "date": "2026-03-12",
+        "open": 184.05,
+        "high": 184.94,
+        "low": 181.75,
+        "close": 183.14,
+        "volume": 155762700
+      },
+      {
+        "date": "2026-03-13",
+        "open": 184.92,
+        "high": 186.09,
+        "low": 179.94,
+        "close": 180.25,
+        "volume": 160988400
+      },
+      {
+        "date": "2026-03-16",
+        "open": 182.97,
+        "high": 188.88,
+        "low": 181.41,
+        "close": 183.22,
+        "volume": 217307400
+      },
+      {
+        "date": "2026-03-17",
+        "open": 185.06,
+        "high": 185.4,
+        "low": 181.68,
+        "close": 181.93,
+        "volume": 182497800
+      },
+      {
+        "date": "2026-03-18",
+        "open": 182.48,
+        "high": 183.38,
+        "low": 180.33,
+        "close": 180.4,
+        "volume": 156683100
+      },
+      {
+        "date": "2026-03-19",
+        "open": 178.01,
+        "high": 179.98,
+        "low": 175.79,
+        "close": 178.56,
+        "volume": 170968500
+      },
+      {
+        "date": "2026-03-20",
+        "open": 178.0,
+        "high": 178.26,
+        "low": 171.72,
+        "close": 172.7,
+        "volume": 241323500
+      },
+      {
+        "date": "2026-03-23",
+        "open": 177.26,
+        "high": 178.37,
+        "low": 174.76,
+        "close": 175.64,
+        "volume": 182836300
+      },
+      {
+        "date": "2026-03-24",
+        "open": 174.83,
+        "high": 176.22,
+        "low": 173.98,
+        "close": 175.2,
+        "volume": 147667800
+      },
+      {
+        "date": "2026-03-25",
+        "open": 177.1,
+        "high": 181.22,
+        "low": 176.85,
+        "close": 178.68,
+        "volume": 162602100
+      },
+      {
+        "date": "2026-03-26",
+        "open": 176.07,
+        "high": 176.51,
+        "low": 171.14,
+        "close": 171.24,
+        "volume": 186152200
+      },
+      {
+        "date": "2026-03-27",
+        "open": 170.0,
+        "high": 170.97,
+        "low": 167.01,
+        "close": 167.52,
+        "volume": 196212700
+      },
+      {
+        "date": "2026-03-30",
+        "open": 168.78,
+        "high": 169.45,
+        "low": 164.27,
+        "close": 165.17,
+        "volume": 185627000
+      },
+      {
+        "date": "2026-03-31",
+        "open": 166.97,
+        "high": 174.62,
+        "low": 166.96,
+        "close": 174.4,
+        "volume": 226181300
+      },
+      {
+        "date": "2026-04-01",
+        "open": 176.0,
+        "high": 177.37,
+        "low": 174.75,
+        "close": 175.75,
+        "volume": 168132000
+      },
+      {
+        "date": "2026-04-02",
+        "open": 172.18,
+        "high": 177.49,
+        "low": 171.37,
+        "close": 177.39,
+        "volume": 143143200
+      },
+      {
+        "date": "2026-04-06",
+        "open": 177.16,
+        "high": 177.79,
+        "low": 175.76,
+        "close": 177.64,
+        "volume": 107564300
+      },
+      {
+        "date": "2026-04-07",
+        "open": 175.73,
+        "high": 178.23,
+        "low": 173.66,
+        "close": 178.1,
+        "volume": 132534900
+      },
+      {
+        "date": "2026-04-08",
+        "open": 184.5,
+        "high": 185.26,
+        "low": 180.3,
+        "close": 182.08,
+        "volume": 147732700
+      },
+      {
+        "date": "2026-04-09",
+        "open": 181.84,
+        "high": 184.08,
+        "low": 180.62,
+        "close": 183.91,
+        "volume": 116428500
+      },
+      {
+        "date": "2026-04-10",
+        "open": 184.31,
+        "high": 190.0,
+        "low": 184.3,
+        "close": 188.63,
+        "volume": 160459500
+      },
+      {
+        "date": "2026-04-13",
+        "open": 186.03,
+        "high": 189.66,
+        "low": 185.74,
+        "close": 189.31,
+        "volume": 133648200
+      },
+      {
+        "date": "2026-04-14",
+        "open": 190.84,
+        "high": 196.51,
+        "low": 190.77,
+        "close": 196.51,
+        "volume": 161307000
+      },
+      {
+        "date": "2026-04-15",
+        "open": 196.54,
+        "high": 200.4,
+        "low": 195.74,
+        "close": 198.87,
+        "volume": 185338400
+      },
+      {
+        "date": "2026-04-16",
+        "open": 197.43,
+        "high": 199.85,
+        "low": 195.81,
+        "close": 198.35,
+        "volume": 134012900
+      },
+      {
+        "date": "2026-04-17",
+        "open": 199.9,
+        "high": 201.7,
+        "low": 199.27,
+        "close": 201.68,
+        "volume": 160324400
+      },
+      {
+        "date": "2026-04-20",
+        "open": 199.98,
+        "high": 202.17,
+        "low": 197.84,
+        "close": 202.06,
+        "volume": 119047400
+      }
+    ],
+    "sec_filings": [
+      "8-K (2026-03-06): 8-K",
+      "10-K (2026-02-25): 10-K",
+      "8-K (2026-02-25): 8-K",
+      "8-K (2026-01-23): 8-K",
+      "10-Q (2025-11-19): 10-Q"
+    ],
+    "data_sources": [
+      "Yahoo Finance",
+      "SEC EDGAR"
+    ],
+    "collected_at": "2026-04-21T17:03:38.639266"
+  },
+  "sentiment": {
+    "ticker": "NVDA",
+    "overall_sentiment": "positive",
+    "sentiment_score": 0.6,
+    "news_items": [
+      {
+        "title": "Check out NVIDIA Corp's stock price (NVDA) in real time",
+        "source": "cnbc.com",
+        "url": "https://www.cnbc.com/quotes/NVDA",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "U.S. seizes Iranian-flagged ship, Warsh's big week: Morning SquawkCNBC.com [...] U.S. seizes Iranian-flagged ship, Warsh's big week: Morning SquawkCNBC.com [...] Volume\n\n112,157,054\n\n52 week range\n\n95"
+      },
+      {
+        "title": "NVDA-CH: NVIDIA Corp - Stock Price, Quote and News - CNBC",
+        "source": "cnbc.com",
+        "url": "https://www.cnbc.com/quotes/NVDA-CH",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "## Key Stats\n\n Market Cap-\n Shares Out-\n 10 Day Average Volume-\n Dividend0.03\n Dividend Yield0.02%\n Beta-\n\n## Latest On NVIDIA Corp [...] Adobe's Shantanu Narayen & Nvidia's Jensen Huang on CEO Transi"
+      },
+      {
+        "title": "Nvidia Stock: Why 2026 Could Be A Game Changer (NASDAQ:NVDA)",
+        "source": "seekingalpha.com",
+        "url": "https://seekingalpha.com/article/4888727-nvidia-why-2026-could-be-a-game-changer",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "## Summary\n\n   Nvidia Corporation stands as the prime beneficiary of accelerating AI infrastructure spending, with unmatched market share and technological leadership.\n   NVDA's EPS is projected to gr"
+      },
+      {
+        "title": "Nvidia Stock Looks Like A Buy (Technical Analysis) (NASDAQ:NVDA)",
+        "source": "seekingalpha.com",
+        "url": "https://seekingalpha.com/article/4891606-nvidia-stock-looks-like-a-buy-technical-analysis",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "Analyst’s Disclosure: I/we have a beneficial long position in the shares of NVDA either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opi"
+      },
+      {
+        "title": "NVIDIA Corporation (NVDA) Stock Price, Quote, News & Analysis",
+        "source": "seekingalpha.com",
+        "url": "https://seekingalpha.com/symbol/NVDA",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "NVIDIA Corporation operates as a data center scale AI infrastructure company. The company operates through two segments, Compute & Networking, and Graphics segments. The Compute & Networking segment p"
+      },
+      {
+        "title": "Nvidia's long-awaited stock breakout is proof that patience pays off",
+        "source": "cnbc.com",
+        "url": "https://www.cnbc.com/2026/04/15/nvidias-long-awaited-stock-breakout-is-proof-that-patience-pays-off.html",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "Its all-time closing high of $207.04 came on Oct. 29. As frustrating as Nvidia's multi-month stretch of weak trading had become, moves like this are why we urged investors to stay patient during GTC l"
+      },
+      {
+        "title": "Nvidia is in a deep correction and super cheap. How to trade a bounce with options",
+        "source": "cnbc.com",
+        "url": "https://www.cnbc.com/2026/03/27/nvidia-is-in-a-deep-correction-and-super-cheap-how-to-trade-a-bounce-it-with-options.html",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "Investors have been using the largest company in the world — Nvidia — as a cash machine this month. Nearly 20% off its all-time high, the AI leader has dropped from a $5 trillion market cap to a $4 tr"
+      },
+      {
+        "title": "Nvidia's blowout earnings report disappoints Wall Street as stock ...",
+        "source": "cnbc.com",
+        "url": "https://www.cnbc.com/2026/02/26/nvidia-nvda-stock-price-q4-earnings.html",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "Nvidia shares dropped more than 5% on Thursday, as investor concerns around its leadership in the artificial intelligence boom dampened enthusiasm over its earnings beat.\n\nThe company reported stellar"
+      },
+      {
+        "title": "CNBC Daily Open: Nvidia’s earnings beat and other AI news give markets relief — for now",
+        "source": "cnbc.com",
+        "url": "https://www.cnbc.com/2026/02/26/cnbc-daily-open-nvidias-earnings-beat-ai-news-give-markets-relief-for-now.html",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "The anticipated Nvidia report and fellow AI player Oracle's rating upgrade by Oppenheimer seemed to assuage investors concerns over AI-led disruption, giving U.S. markets a boost Wednesday. The Dow Jo"
+      },
+      {
+        "title": "Nvidia: The Market Is Wrong, Time Will Tell (NASDAQ:NVDA) | Seeking Alpha",
+        "source": "seekingalpha.com",
+        "url": "https://seekingalpha.com/article/4885989-nvidia-stock-market-is-wrong-time-will-tell",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n## Subscriptions\n\n# Nvidia: The Market Is Wrong, Time Will Tell\n\n## Summary\n\nCEO Jensen Huang Delivers Keynote Address During Nvidia\"s GTC Confer"
+      }
+    ],
+    "key_topics": [
+      "AI infrastructure",
+      "market leadership",
+      "earnings",
+      "stock performance",
+      "growth projections",
+      "technological advancements",
+      "investor sentiment"
+    ],
+    "social_buzz_score": 100.0,
+    "analysis_summary": "整体舆情偏正面，尽管有关于短期股价回调和华尔街反应的负面报道，但文章普遍强调了英伟达在人工智能基础设施领域的领导地位、强劲的盈利能力和增长潜力。分析师看好其长期前景，认为其技术优势和市场份额将继续推动其发展，并建议投资者保持耐心。部分文章提到了其股票的潜在交易机会和技术分析。",
+    "analyzed_at": "2026-04-21T17:03:43.172830"
+  },
+  "market_analysis": {
+    "ticker": "NVDA",
+    "trend_direction": "uptrend",
+    "technical_indicators": [
+      {
+        "name": "MA20",
+        "value": 182.91,
+        "signal": "bullish",
+        "description": "20日均线: 182.91, 当前价: 202.06"
+      },
+      {
+        "name": "RSI14",
+        "value": 98.63,
+        "signal": "bearish",
+        "description": "14日RSI: 98.63"
+      },
+      {
+        "name": "Volatility",
+        "value": 2.07,
+        "signal": "neutral",
+        "description": "波动率: 2.07%"
+      },
+      {
+        "name": "Moving Average Convergence Divergence (MACD)",
+        "value": 0.0,
+        "signal": "bullish",
+        "description": "尽管数据未直接提供MACD指标，但近期价格的持续上涨通常伴随着MACD指标的看涨信号，表明上涨动能正在增强。"
+      },
+      {
+        "name": "Relative Strength Index (RSI)",
+        "value": 0.0,
+        "signal": "bullish",
+        "description": "近期价格的上涨趋势可能导致RSI指标处于超买区域，但强劲的上涨趋势可以维持较长时间的超买状态，表明买盘强劲。"
+      },
+      {
+        "name": "Volume Analysis",
+        "value": 0.0,
+        "signal": "neutral",
+        "description": "过去五天的交易量有所波动，在价格上涨日（14日、17日）成交量相对较高，而在价格小幅回调或盘整日（16日、20日）成交量有所下降，这表明市场对当前价格水平存在一定分歧，但整体上涨趋势并未被大量抛售所破坏。"
+      }
+    ],
+    "risk_factors": [
+      {
+        "category": "market",
+        "description": "高估值风险：公司当前的市盈率和市净率处于较高水平，一旦市场情绪转变或增长不及预期，可能面临估值回调的风险。",
+        "severity": "medium",
+        "mitigation": "密切关注公司盈利增长是否能持续支撑当前估值，并与同行业竞争对手进行比较分析。"
+      },
+      {
+        "category": "credit",
+        "description": "高负债权益比：7.255的负债权益比表明公司财务杠杆较高，在利率上升或经济下行时，可能增加财务成本和偿债压力。",
+        "severity": "medium",
+        "mitigation": "关注公司的现金流生成能力和债务偿还能力，以及其融资成本的变化。"
+      },
+      {
+        "category": "market",
+        "description": "行业竞争加剧：AI芯片和相关技术领域竞争日益激烈，新进入者和现有竞争对手的创新可能对英伟达的市场份额和利润率构成挑战。",
+        "severity": "medium",
+        "mitigation": "持续关注公司的技术研发投入、产品创新能力以及其在供应链中的议价能力。"
+      },
+      {
+        "category": "regulatory",
+        "description": "地缘政治和出口管制风险：作为全球领先的半导体公司，英伟达可能受到国际贸易政策、地缘政治紧张局势以及特定国家出口管制的直接影响。",
+        "severity": "high",
+        "mitigation": "关注全球地缘政治局势和相关国家（尤其是美国和中国）的贸易政策变化，评估其对公司全球业务的影响。"
+      }
+    ],
+    "overall_risk_level": "medium",
+    "price_target": 220.0,
+    "support_level": 195.0,
+    "resistance_level": 205.0,
+    "recommendation": "buy",
+    "analysis_summary": "英伟达（NVDA）近期呈现出强劲的上涨趋势，过去五天的收盘价稳步攀升，显示出积极的市场动能。公司在科技行业，特别是人工智能基础设施领域占据领导地位，这得到了强劲的财务指标支持，包括极高的净利润率（约55.6%）和自由现金流。高达101.48%的股本回报率（ROE）表明公司能高效地利用股东资本创造利润。然而，41.15倍的市盈率（P/E）和31.22倍的市净率（P/B）表明市场对其增长前景给予了很高的估值，这可能带来一定的估值风险。高达7.255的负债权益比（Debt/Equity）也需要关注，尽管在科技行业中，高增长公司有时会利用杠杆来加速扩张，但这也增加了财务杠杆的风险。整体市场情绪积极，关键主题集中在AI基础设施、市场领导地位、强劲的盈利能力和乐观的增长预测。技术指标方面，近期价格上涨伴随成交量波动，但整体趋势向上。考虑到其市场领导地位和AI驱动的增长潜力，短期内股价有望继续上行，但高估值和杠杆是需要警惕的风险点。因此，建议逢低买入，并密切关注其盈利报告和AI行业的发展动态。",
+    "analyzed_at": "2026-04-21T17:03:48.525742"
+  },
+  "metadata": {
+    "ticker": "NVDA",
+    "period": "1y",
+    "total_time_seconds": 18.17,
+    "stage1_parallel_time": 6.55,
+    "generated_at": "2026-04-21T17:03:54.800062",
+    "agents_used": [
+      "DataCollectorAgent",
+      "SentimentAgent",
+      "MarketAnalystAgent",
+      "ReportWriterAgent",
+      "ComplianceAgent"
+    ]
+  }
+}

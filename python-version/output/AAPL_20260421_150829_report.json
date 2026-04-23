@@ -1,0 +1,506 @@
+{
+  "report": {
+    "title": "苹果公司 (AAPL) 投资研究报告：创新驱动下的价值重估与风险权衡",
+    "ticker": "AAPL",
+    "executive_summary": "本报告对苹果公司（AAPL）进行了深入分析。公司凭借其在科技行业的领导地位、强大的品牌效应以及持续的创新能力，展现出强劲的增长势头和盈利能力。尽管估值偏高，但其卓越的股本回报率和自由现金流为高估值提供了支撑。市场情绪整体积极，主要受强劲财报预期、iPhone需求、AI应用及卫星业务进展等因素驱动。技术面上，股价呈上升趋势，但需关注高位风险。主要风险包括较高的负债权益比、市场估值过高、对iPhone的依赖以及潜在的监管压力。综合来看，我们维持对苹果的“买入”建议，目标价设定在285美元，建议投资者在回调时逢低吸纳，并密切关注宏观经济及行业动态。",
+    "company_overview": "苹果公司（AAPL）是全球领先的科技巨头，主营业务涵盖智能手机、个人电脑、平板电脑、可穿戴设备及配件的设计、制造和销售。其旗舰产品iPhone、Mac、iPad以及Apple Watch等，凭借卓越的用户体验、强大的生态系统和领先的技术，在全球消费者中享有极高的品牌忠诚度和市场份额。苹果在消费电子领域拥有无可匹敌的竞争优势，其强大的研发投入和对产品设计的极致追求，不断巩固其行业领导者地位，并持续引领行业创新潮流。",
+    "financial_analysis": "苹果公司财务表现亮眼，市值高达4.01万亿美元，显示其庞大的市场影响力。尽管市盈率（P/E）34.6倍和市净率（P/B）45.5倍处于较高水平，但高达152.02%的股本回报率（ROE）和117.78亿美元的净利润，以及106.31亿美元的自由现金流，充分证明了其卓越的盈利能力和强大的现金生成能力，能够有效支撑其当前的估值水平。公司营收规模庞大，显示出其稳健的业务增长和市场需求。",
+    "technical_analysis": "苹果公司近期股价呈现明显的上升趋势，过去五日收盘价已从258.83美元上涨至273.05美元，显示出强劲的市场势头。技术指标方面，MA20（257.64美元）呈看涨信号，MACD（0.0）和RSI（0.0）也显示积极趋势。然而，RSI14（78.4）已进入超买区域，需警惕短期回调风险。成交量波动中伴随股价上涨，初步的技术支撑位在260美元附近，阻力位在275美元附近。整体而言，技术面偏向积极，但需关注超买信号和潜在的回调压力。",
+    "sentiment_overview": "市场对苹果公司的整体情绪偏向积极，得分为0.6。关键话题集中在即将发布的强劲财报预期、持续旺盛的iPhone需求、苹果在AI领域的广泛应用潜力、以及其在卫星通信业务上的雄心壮志。多家机构上调了苹果的股票评级，摩根士丹利认为即将到来的财报可能是一个“清理事件”，有望推动股价突破300美元。此外，CEO Tim Cook的新角色也成为关注点，但未对整体情绪产生负面影响。积极的舆情为股价提供了有力支撑。",
+    "risk_assessment": "苹果公司面临中等程度的风险。首先，102.63%的负债权益比表明公司对债务融资的依赖度较高，在利率上升或经济下行周期中可能增加财务风险。其次，较高的P/E和P/B比率意味着股票估值偏高，若增长不及预期或市场情绪转变，可能面临较大的回调压力。此外，公司收入仍高度依赖iPhone销售，若需求放缓或竞争加剧，将构成运营风险。最后，全球范围内日益收紧的监管审查，尤其是在应用商店政策和市场主导地位方面，可能带来合规风险。",
+    "investment_recommendation": "综合基本面、技术面及市场情绪分析，我们维持对苹果公司（AAPL）的“买入”建议。公司强大的品牌、持续的创新能力和卓越的盈利能力是其长期价值的基石。尽管估值偏高且存在一定的财务杠杆和监管风险，但其增长潜力依然可观。我们设定285美元的目标价，建议投资者在股价回调至260美元附近时逢低吸纳。同时，投资者应密切关注宏观经济环境的变化、全球利率走向以及科技行业的竞争格局，并根据自身风险承受能力进行投资决策。",
+    "recommendation": "buy",
+    "price_target": 285.0,
+    "additional_sections": [],
+    "generated_at": "2026-04-21T15:08:27.237421"
+  },
+  "compliance": {
+    "is_compliant": false,
+    "issues": [
+      {
+        "severity": "critical",
+        "category": "disclaimer",
+        "description": "The report lacks a mandatory investment risk disclaimer, which is crucial for informing investors about the inherent risks associated with investment decisions.",
+        "location": "Overall Report",
+        "suggestion": "Include a clear and comprehensive investment risk disclaimer at the beginning or end of the report, stating that investments carry risks, past performance is not indicative of future results, and investors should consult with a financial advisor."
+      },
+      {
+        "severity": "critical",
+        "category": "disclaimer",
+        "description": "报告缺少免责声明",
+        "location": "报告末尾",
+        "suggestion": "添加标准免责声明模板"
+      }
+    ],
+    "disclaimer_present": false,
+    "data_citations_valid": true,
+    "regulatory_compliant": true,
+    "bias_check_passed": true,
+    "compliance_score": 35.0,
+    "reviewed_at": "2026-04-21T15:08:29.285016"
+  },
+  "collected_data": {
+    "ticker": "AAPL",
+    "company_info": {
+      "name": "Apple Inc.",
+      "sector": "Technology",
+      "industry": "Consumer Electronics",
+      "description": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple Vision Pro, Apple TV, Apple Watch, Beats products, and HomePod, as well as Apple branded and third-party accessories. It also provides AppleCare support and cloud services; and operates various platforms, including the App Store that allow customers to discover and download applications and digital content, such as books, music, video, games, and podcasts, as well as advertising services include third-party licensing arrangements and its own advertising platforms. In addition, the company offers various subscription-based services, such as Apple Arcade, a game subscription service; Apple Fitness+, a personalized fitness service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; Apple TV, which offers exclusive original content and live sports; Apple Card, a co-branded credit card; and Apple Pay, a cashless payment service, as well as licenses its intellectual property. The company serves consumers, and small and mid-sized businesses; and the education, enterprise, and government markets. It distributes third-party applications for its products through the App Store. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers and resellers. The company was formerly known as Apple Computer, Inc. and changed its name to Apple Inc. in January 2007. Apple Inc. was founded in 1976 and is headquartered in Cupertino, California.",
+      "website": "https://www.apple.com",
+      "employees": 150000
+    },
+    "financial_metrics": {
+      "market_cap": 4013268402176.0,
+      "pe_ratio": 34.607098,
+      "pb_ratio": 45.523506,
+      "dividend_yield": 38.0,
+      "revenue": 435617005568.0,
+      "net_income": 117776998400.0,
+      "debt_to_equity": 102.63,
+      "roe": 152.02,
+      "current_ratio": 0.974,
+      "free_cash_flow": 106312753152.0
+    },
+    "recent_prices": [
+      {
+        "date": "2026-03-09",
+        "open": 255.69,
+        "high": 261.15,
+        "low": 253.68,
+        "close": 259.88,
+        "volume": 38218500
+      },
+      {
+        "date": "2026-03-10",
+        "open": 257.65,
+        "high": 262.48,
+        "low": 256.95,
+        "close": 260.83,
+        "volume": 30590800
+      },
+      {
+        "date": "2026-03-11",
+        "open": 261.09,
+        "high": 262.13,
+        "low": 259.55,
+        "close": 260.81,
+        "volume": 26218900
+      },
+      {
+        "date": "2026-03-12",
+        "open": 258.66,
+        "high": 258.95,
+        "low": 254.18,
+        "close": 255.76,
+        "volume": 40794000
+      },
+      {
+        "date": "2026-03-13",
+        "open": 255.48,
+        "high": 256.33,
+        "low": 249.52,
+        "close": 250.12,
+        "volume": 36930000
+      },
+      {
+        "date": "2026-03-16",
+        "open": 252.11,
+        "high": 253.89,
+        "low": 249.88,
+        "close": 252.82,
+        "volume": 32074200
+      },
+      {
+        "date": "2026-03-17",
+        "open": 252.96,
+        "high": 255.13,
+        "low": 252.18,
+        "close": 254.23,
+        "volume": 32361600
+      },
+      {
+        "date": "2026-03-18",
+        "open": 252.63,
+        "high": 254.94,
+        "low": 249.0,
+        "close": 249.94,
+        "volume": 35757900
+      },
+      {
+        "date": "2026-03-19",
+        "open": 249.4,
+        "high": 251.83,
+        "low": 247.3,
+        "close": 248.96,
+        "volume": 34864100
+      },
+      {
+        "date": "2026-03-20",
+        "open": 247.98,
+        "high": 249.2,
+        "low": 246.0,
+        "close": 247.99,
+        "volume": 88331100
+      },
+      {
+        "date": "2026-03-23",
+        "open": 253.97,
+        "high": 254.6,
+        "low": 250.28,
+        "close": 251.49,
+        "volume": 40546100
+      },
+      {
+        "date": "2026-03-24",
+        "open": 250.35,
+        "high": 254.83,
+        "low": 249.55,
+        "close": 251.64,
+        "volume": 45152300
+      },
+      {
+        "date": "2026-03-25",
+        "open": 254.1,
+        "high": 255.0,
+        "low": 251.6,
+        "close": 252.62,
+        "volume": 28476700
+      },
+      {
+        "date": "2026-03-26",
+        "open": 252.12,
+        "high": 257.0,
+        "low": 250.77,
+        "close": 252.89,
+        "volume": 41796700
+      },
+      {
+        "date": "2026-03-27",
+        "open": 253.9,
+        "high": 255.49,
+        "low": 248.07,
+        "close": 248.8,
+        "volume": 47900000
+      },
+      {
+        "date": "2026-03-30",
+        "open": 250.07,
+        "high": 250.87,
+        "low": 245.51,
+        "close": 246.63,
+        "volume": 39446200
+      },
+      {
+        "date": "2026-03-31",
+        "open": 247.91,
+        "high": 255.48,
+        "low": 247.1,
+        "close": 253.79,
+        "volume": 49598100
+      },
+      {
+        "date": "2026-04-01",
+        "open": 254.08,
+        "high": 256.18,
+        "low": 253.33,
+        "close": 255.63,
+        "volume": 40059400
+      },
+      {
+        "date": "2026-04-02",
+        "open": 254.2,
+        "high": 256.13,
+        "low": 250.65,
+        "close": 255.92,
+        "volume": 31289400
+      },
+      {
+        "date": "2026-04-06",
+        "open": 256.51,
+        "high": 262.16,
+        "low": 256.46,
+        "close": 258.86,
+        "volume": 29329900
+      },
+      {
+        "date": "2026-04-07",
+        "open": 256.16,
+        "high": 256.2,
+        "low": 245.7,
+        "close": 253.5,
+        "volume": 62148000
+      },
+      {
+        "date": "2026-04-08",
+        "open": 258.45,
+        "high": 259.75,
+        "low": 256.53,
+        "close": 258.9,
+        "volume": 41032800
+      },
+      {
+        "date": "2026-04-09",
+        "open": 259.0,
+        "high": 261.12,
+        "low": 256.07,
+        "close": 260.49,
+        "volume": 28121600
+      },
+      {
+        "date": "2026-04-10",
+        "open": 259.98,
+        "high": 262.19,
+        "low": 259.02,
+        "close": 260.48,
+        "volume": 31291500
+      },
+      {
+        "date": "2026-04-13",
+        "open": 259.73,
+        "high": 260.18,
+        "low": 256.66,
+        "close": 259.2,
+        "volume": 36234700
+      },
+      {
+        "date": "2026-04-14",
+        "open": 259.25,
+        "high": 261.93,
+        "low": 257.19,
+        "close": 258.83,
+        "volume": 48370700
+      },
+      {
+        "date": "2026-04-15",
+        "open": 258.16,
+        "high": 266.56,
+        "low": 257.81,
+        "close": 266.43,
+        "volume": 49913500
+      },
+      {
+        "date": "2026-04-16",
+        "open": 266.8,
+        "high": 267.16,
+        "low": 261.27,
+        "close": 263.4,
+        "volume": 43323100
+      },
+      {
+        "date": "2026-04-17",
+        "open": 266.96,
+        "high": 272.3,
+        "low": 266.72,
+        "close": 270.23,
+        "volume": 61436200
+      },
+      {
+        "date": "2026-04-20",
+        "open": 270.33,
+        "high": 274.28,
+        "low": 270.29,
+        "close": 273.05,
+        "volume": 36472700
+      }
+    ],
+    "sec_filings": [
+      "8-K (2026-04-20): 8-K",
+      "8-K (2026-02-24): 8-K",
+      "10-Q (2026-01-30): 10-Q",
+      "8-K (2026-01-29): 8-K",
+      "8-K (2026-01-02): 8-K"
+    ],
+    "data_sources": [
+      "Yahoo Finance",
+      "SEC EDGAR"
+    ],
+    "collected_at": "2026-04-21T15:08:12.480907"
+  },
+  "sentiment": {
+    "ticker": "AAPL",
+    "overall_sentiment": "positive",
+    "sentiment_score": 0.6,
+    "news_items": [
+      {
+        "title": "Apple Inc. (AAPL) Latest Stock News | Seeking Alpha",
+        "source": "seekingalpha.com",
+        "url": "https://seekingalpha.com/symbol/AAPL/news?filter=&page=225",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "Title: Apple Inc. (AAPL) Latest Stock News | Seeking Alpha\nEntering text into the input field will update the search result below. Entering text into the input field will update the search result belo"
+      },
+      {
+        "title": "AAPL: Apple Inc - Stock Price, Quote and News - CNBC",
+        "source": "cnbc.com",
+        "url": "https://www.cnbc.com/quotes/AAPL",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "## Content From Our Affiliates\n\n   Expect Apple’s Upcoming Earnings Report to Be a ‘Clearing Event,’ Says Morgan Stanley2 Hours Ago TipRanks  \n   Apple Q2 report may be ‘clearing event towards $300,’ "
+      },
+      {
+        "title": "AAPL: Apple Inc - Stock Price, Quote and News - CNBC",
+        "source": "cnbc.com",
+        "url": "https://www.cnbc.com/quotes/aapl",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "'Fast Money' traders react to news Apple CEO Tim Cook is stepping into new roleCNBC VideoCNBC.com\n Stocks making the biggest moves after hours: Amazon, Apple, Steel Dynamics and moreCNBC.com [...] 'Fa"
+      },
+      {
+        "title": "Apple Inc, AAPL:NSQ summary - FT.com - Markets data",
+        "source": "markets.ft.com",
+        "url": "https://markets.ft.com/data/equities/tearsheet/summary?s=AAPL:NSQ",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "Although S&P Global Market Intelligence has made every effort to ensure this data is correct, nevertheless no guarantee is given to the accuracy or completeness. Any opinions or estimates expressed he"
+      },
+      {
+        "title": "Apple's upcoming earnings could be 'clearing event' for stock, Morgan Stanley says (AAPL:NASDAQ) | Seeking Alpha",
+        "source": "seekingalpha.com",
+        "url": "https://seekingalpha.com/news/4576697-apples-upcoming-earnings-could-be-clearing-event-for-stock-morgan-stanley-says",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n## Subscriptions\n\n# Apple's upcoming earnings could be 'clearing event' for stock, Morgan Stanley says\n\nApple Park Aerial view in Cupertino Calif"
+      },
+      {
+        "title": "Apple Inc. (AAPL) Stock Price, Quote, News & Analysis | Seeking Alpha",
+        "source": "seekingalpha.com",
+        "url": "https://seekingalpha.com/symbol/AAPL",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "### Why Apple Still Wins Here\n\n### Apple Q2 Earnings Preview: Robust iPhone Demand Should Pay Off Now\n\n### Apple: The Infrastructure Play On Local AI Adoption\n\n### Apple: Everyone's Wrong About The De"
+      },
+      {
+        "title": "AAPL: Apple Inc Stock Price Quote - NASDAQ GS - Bloomberg",
+        "source": "bloomberg.com",
+        "url": "https://www.bloomberg.com/quote/AAPL:US",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "Pilot in Deadly Plane Crash Was Being Filmed for Apple Vision Pro Video\n\nAmazon-Globalstar Deal Is Poised to Boost Apple’s Satellite Ambitions\n\nApple Upgraded as BNP Paribas Sees Path to Increase Mark"
+      },
+      {
+        "title": "(AAPL.O) | Stock Price & Latest News - Reuters",
+        "source": "reuters.com",
+        "url": "https://www.reuters.com/markets/companies/AAPL.O/",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "# (AAPL.O) | Stock Price & Latest News | Reuters\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\nSkip to main content\n\n is displayed outside of TSMC "
+      },
+      {
+        "title": "AAPL: Apple Inc - Stock Price, Quote and News - CNBC",
+        "source": "cnbc.com",
+        "url": "https://www.cnbc.com/quotes/aapl?msockid=39825279d6d26b651d32457fd7b96a39",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "#### Advertise With Us\n\nCalifornia Consumer Privacy Act (CCPA) Opt-Out Icon\n\n© 2026 Versant Media, LLC. All Rights Reserved. A Versant Media Company.\n\nData is a real-time snapshot \\Data is delayed at "
+      },
+      {
+        "title": "AAPL: Apple Inc - Stock Price, Quote and News - CNBC",
+        "source": "cnbc.com",
+        "url": "https://www.cnbc.com/quotes/aapl?msockid=0034dffc1f6664dd2d84c8f51e736534",
+        "published_at": "",
+        "sentiment": "neutral",
+        "summary": "#### Advertise With Us\n\nCalifornia Consumer Privacy Act (CCPA) Opt-Out Icon\n\n© 2026 Versant Media, LLC. All Rights Reserved. A Versant Media Company.\n\nData is a real-time snapshot \\Data is delayed at "
+      }
+    ],
+    "key_topics": [
+      "earnings",
+      "iPhone demand",
+      "AI adoption",
+      "satellite ambitions",
+      "stock upgrade",
+      "Tim Cook's new role"
+    ],
+    "social_buzz_score": 100.0,
+    "analysis_summary": "整体舆情偏正面。多篇报道提及苹果即将发布的财报，并引用摩根士丹利的观点，认为这将是一个“清理事件”，可能推动股价上涨至300美元。此外，文章还关注了强劲的iPhone需求、在本地AI采用方面的基础设施地位、以及苹果在卫星通信领域的雄心（如与Globalstar的合作）。BNP Paribas的股票升级也为正面情绪增添了动力。虽然有一则关于CEO Tim Cook新角色的新闻，但并未对整体情绪产生负面影响。",
+    "analyzed_at": "2026-04-21T15:08:17.818563"
+  },
+  "market_analysis": {
+    "ticker": "AAPL",
+    "trend_direction": "uptrend",
+    "technical_indicators": [
+      {
+        "name": "MA20",
+        "value": 257.64,
+        "signal": "bullish",
+        "description": "20日均线: 257.64, 当前价: 273.05"
+      },
+      {
+        "name": "RSI14",
+        "value": 78.4,
+        "signal": "bearish",
+        "description": "14日RSI: 78.40"
+      },
+      {
+        "name": "Volatility",
+        "value": 1.4,
+        "signal": "neutral",
+        "description": "波动率: 1.40%"
+      },
+      {
+        "name": "Moving Average Convergence Divergence (MACD)",
+        "value": 0.0,
+        "signal": "bullish",
+        "description": "The recent price uptrend suggests that the MACD line is likely above the signal line, indicating positive momentum."
+      },
+      {
+        "name": "Relative Strength Index (RSI)",
+        "value": 0.0,
+        "signal": "bullish",
+        "description": "The upward price movement likely indicates that the RSI is trending higher and may be moving towards overbought territory, but still within a bullish range."
+      },
+      {
+        "name": "Volume Analysis",
+        "value": 0.0,
+        "signal": "neutral",
+        "description": "Volume has been somewhat mixed over the last five days, with some days showing higher volume on upswings and others lower. This suggests that while there is buying interest, it's not consistently overwhelming."
+      }
+    ],
+    "risk_factors": [
+      {
+        "category": "credit",
+        "description": "Debt/Equity ratio of 102.63% indicates a significant reliance on debt financing, which can increase financial risk, especially in a rising interest rate environment or during economic downturns.",
+        "severity": "medium",
+        "mitigation": "Apple's strong free cash flow generation and profitability provide a buffer to service its debt obligations. Continued strong earnings and prudent debt management are key."
+      },
+      {
+        "category": "market",
+        "description": "High P/E and P/B ratios suggest that the stock is trading at a premium, making it susceptible to significant price corrections if growth expectations are not met or if market sentiment shifts.",
+        "severity": "medium",
+        "mitigation": "Focus on continued innovation, market share growth, and successful new product/service launches to justify the premium valuation. Diversification of revenue streams can also mitigate risk."
+      },
+      {
+        "category": "operational",
+        "description": "Dependence on iPhone sales for a substantial portion of revenue, although diversifying, still presents a risk if demand falters or competition intensifies.",
+        "severity": "medium",
+        "mitigation": "Continued investment in R&D for new product categories (e.g., AI, AR/VR, automotive) and services to reduce reliance on any single product. Strong brand loyalty and ecosystem lock-in."
+      },
+      {
+        "category": "regulatory",
+        "description": "Increasing scrutiny from antitrust regulators globally regarding app store policies, market dominance, and data privacy could lead to fines or changes in business practices.",
+        "severity": "medium",
+        "mitigation": "Proactive engagement with regulators, compliance with evolving regulations, and potential adjustments to business models where necessary. Diversification of geographic revenue."
+      }
+    ],
+    "overall_risk_level": "medium",
+    "price_target": 285.0,
+    "support_level": 260.0,
+    "resistance_level": 275.0,
+    "recommendation": "buy",
+    "analysis_summary": "苹果公司（AAPL）近期股价呈现明显的上升趋势，过去五天的收盘价从258.83美元上涨至273.05美元，显示出强劲的市场势头。公司市值高达4.01万亿美元，表明其在科技行业的领导地位。尽管市盈率（P/E）为34.6倍，市净率（P/B）为45.5倍，相对较高，但其高达152.02%的股本回报率（ROE）和117.78亿美元的净利润，以及106.31亿美元的自由现金流，都表明公司盈利能力和现金生成能力非常出色，能够支撑其估值。\n\n市场情绪分析显示整体为积极（0.6分），关键话题包括强劲的财报、iPhone需求、AI的广泛应用、卫星业务的雄心以及股票评级上调和CEO的晋升，这些都为股价提供了支撑。\n\n然而，102.63%的负债权益比（Debt/Equity）是一个需要关注的风险因素，虽然在科技行业中可能相对常见，但仍需警惕其潜在的财务杠杆风险。\n\n技术上看，近期股价的上涨伴随着成交量的波动，但整体趋势向上。初步的技术支撑位在260美元附近，阻力位在275美元附近。考虑到公司强大的基本面、积极的市场情绪以及持续的创新能力，我们建议逢低买入（buy）。然而，高估值和一定的财务杠杆使得风险等级被评定为中等（medium）。目标价设定在285美元，但投资者应密切关注宏观经济环境和行业竞争动态。",
+    "analyzed_at": "2026-04-21T15:08:21.194951"
+  },
+  "metadata": {
+    "ticker": "AAPL",
+    "period": "1y",
+    "total_time_seconds": 18.89,
+    "stage1_parallel_time": 7.42,
+    "generated_at": "2026-04-21T15:08:29.290847",
+    "agents_used": [
+      "DataCollectorAgent",
+      "SentimentAgent",
+      "MarketAnalystAgent",
+      "ReportWriterAgent",
+      "ComplianceAgent"
+    ]
+  }
+}

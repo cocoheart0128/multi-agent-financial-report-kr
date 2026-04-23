@@ -7,7 +7,7 @@ from tools.apis_krx_tool import get_krx_comp_identity, get_financial_all
 from tools.naver_news_tool import search_financial_news
 from tools.yahoo_finance_tool import get_recent_prices, get_stock_current_price
 
-logging.basicConfig(level=logging.INFO)
+# logging.basicConfig(level=logging.INFO)
 
 st.set_page_config(page_title="KR Financial AI Agent", layout="wide")
 

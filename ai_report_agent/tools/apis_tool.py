@@ -15,7 +15,7 @@ from dotenv import load_dotenv
 
 
 logger = logging.getLogger(__name__)
-logger.setLevel(logging.INFO)
+# logger.setLevel(logging.INFO)
 
 # KRX 상장 종목 정보
 KRX_CODE_INFO_BASE = "https://apis.data.go.kr/1160100/service/GetKrxListedInfoService/getItemInfo"
